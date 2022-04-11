@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-const API_URL = 'https://spring-back-algs.herokuapp.com/api/test';
+const API_URL = 'https://spring-back-for-algs.herokuapp.com/api/test/';
 @Injectable({
   providedIn: 'root'
 })
