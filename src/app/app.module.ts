@@ -41,7 +41,7 @@ const appRoutes: Routes =[
   {path: 'alg-types/sort-algs/sort-algs.component.html', component:SortAlgsComponent},
   {path: 'alg-types/hash/hash.component.html', component:HashComponent},
   {path: 'alg-types/beginer/beginer.component.html', component:BeginerComponent},
-  {path: 'alg-types/data-types/data-types.component.html', component:DataTypesComponent},
+  {path: 'data-types', component:DataTypesComponent},
   {path: 'login', component:LoginPageComponent},
   {path: 'test-comp/test-comp.component.html', component:TestCompComponent},
   {path: 'register', component:RegisterPageComponent},
